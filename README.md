@@ -14,7 +14,7 @@ Bring your background and an initial repository link. Brainstorm a practical use
 - Keeps technical detail alongside simple guidance about where to act, what to provide, what to check, and what to do next.
 - Produces one Markdown archive with context, decisions, experiments, sources, and a ready-to-use resume prompt.
 
-The communication style emphasizes clear next actions, manageable steps, and a parking lot for side ideas. It adapts ADHD-friendly communication preferences without assuming a diagnosis. English is the default; explicitly request another language when needed.
+The communication style emphasizes clear next actions, manageable steps, and a parking lot for side ideas. It adapts communication preferences without assuming a diagnosis. English is the default; explicitly request another language when needed.
 
 ## Quick start
 
