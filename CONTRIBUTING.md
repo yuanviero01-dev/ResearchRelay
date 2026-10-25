@@ -1,19 +1,25 @@
 # Contributing
 
-Keep this skill focused on repository-based R&D discussion and complete Markdown archives.
+Keep changes focused on repository-based R&D, practical learning, and complete Markdown archives.
 
 ## Propose a change
 
-1. Describe the user situation and observable behavior that should improve.
-2. Make the smallest relevant change to `SKILL.md`; update examples or documentation if their behavior changes.
-3. Run relevant scenarios in [EVALUATION.md](EVALUATION.md). Report the host, prompt, observed result, and remaining limitation.
+Describe the user need, the current behavior, and the intended result. Make the smallest relevant change and update usage guidance or the example when needed. Use fictional source material rather than private conversations or research records.
 
-Preserve English as the default language, the one-Markdown-file output contract, evidence labels, and the user's control over archiving and publication. Concise communication must not remove important archival detail. Preserve identity, Start here, groups A-D, and numbered sections 1-14. Add beginner guidance within that structure. Keep readiness separate from evidence, verify operational instructions, and retain the same canonical restart action across the archive.
+## Preserve the core behavior
 
-When evaluating changes, compare the same context, sources, skill revision, and task. Do not attribute differences to an account or model when inputs differ. Use anonymized synthetic regressions rather than private user outputs.
+- Keep English as the default, with explicit language overrides supported.
+- Preserve one Markdown archive per agreed topic, identity, Start here, groups A-D, and all 14 numbered sections.
+- Keep technical detail alongside beginner guidance; distinguish readiness, source evidence, proposed work, and user agreement.
+- Preserve original repository roles, version-specific evidence, mandatory constraints, and input/output handoffs.
+- Keep the same first action in Start here, the restart section, and the resume prompt. Retain attribution and the MIT notice.
 
-Do not include credentials, private conversations, or personal background in issues, pull requests, or examples. Use clearly labeled fictional fixtures. Retain upstream attribution and the MIT notice when adapting communication rules.
+## Check a proposed change
 
-No external service, installation script, or automated test runner is required for this instruction-only package. Report actual behavior rather than claiming a scenario passed merely because its wording appears in the skill.
+Try the affected behavior with a small fictional task. Useful cases include brainstorming without archiving, discovery with a missing interface or unavailable search, an explicit archive request, and resuming when a dependency has changed.
 
-For discovery changes, preserve original seed identities and version-specific evidence. Evaluate concrete handoffs and mandatory constraints, not just thematic relevance. Use the supplied offline fixture for repeatable comparisons; keep expected answers and proposed fixes out of the executor's prompt. Record failures as well as passes, and label static checks, model behavior, real execution, and learner studies separately. Expand instructions only when a demonstrated failure or identifiable ambiguity warrants it.
+Check that the assistant explains where to act, what input to provide, how to recognize an insufficient output, and what to pass to the next step. A proposed integration must not be described as tested. Quoted or negated archive requests must not create an archive.
+
+For comparisons, keep context and source material consistent. Record the prompt, host/model if known, observed output, and remaining limitations. Do not infer compatibility or learning effectiveness from polished text alone. Keep working test records outside the public user documentation unless they are relevant to the contribution being discussed.
+
+No external service or installation script is required to contribute documentation changes. Never include credentials, private source excerpts, or unrelated personal context in a contribution.

@@ -1,8 +1,8 @@
 # Search a small set of local project notes
 
-**Archive ID:** EXAMPLE-LOCAL-NOTES-001  
-**Created / updated:** 2026-10-24  
-**Version:** v02  
+**Archive ID:** EXAMPLE-NOTE-WALKTHROUGH-001  
+**Created / updated:** 2026-10-25  
+**Version:** v01  
 **Status:** Exploring  
 **Owner:** Fictional design-team researcher  
 **Tags:** local-search, project-notes, retrieval, beginner-learning
@@ -183,7 +183,7 @@ These are observable checks, not reported successes or validated measures of lea
 
 ### 13. Resume packet
 
-> Resume R&D from EXAMPLE-LOCAL-NOTES-001, Search a small set of local project notes, v02. This is a fictional scenario for a beginner. The goal is to learn input, output, checking, and handoff before evaluating local note-search software. No repository is selected. The proposed first path is a manual chat exercise, not plugin execution. Reading the included note is READY; chat access is CHECK FIRST and repository execution is BLOCKED. First, read the sample note in section 5 and identify the decision sentence. Confirm chat access before continuing the exercise. Preserve technical detail, use simple operational explanations, and check candidate requirements before any later repo test.
+> Resume R&D from EXAMPLE-NOTE-WALKTHROUGH-001, Search a small set of local project notes, v01. This is a fictional scenario for a beginner. The goal is to learn input, output, checking, and handoff before evaluating local note-search software. No repository is selected. The proposed first path is a manual chat exercise, not plugin execution. Reading the included note is READY; chat access is CHECK FIRST and repository execution is BLOCKED. First, read the sample note in section 5 and identify the decision sentence. Confirm chat access before continuing the exercise. Preserve technical detail, use simple operational explanations, and check candidate requirements before any later repo test.
 
 Attach this Markdown file when opening a new conversation.
 
@@ -191,5 +191,4 @@ Attach this Markdown file when opening a new conversation.
 
 No external repo claims support this fictional example. N1 is synthetic data written for the learning exercise. Expected outputs are derived directly from that note and are not actual AI responses.
 
-- 2026-10-24, v01: Initial fictional local-note-search archive; no tests run.
-- 2026-10-24, v02: Added beginner guidance, readiness, a complete practice prompt, observable checks, and consistent restart instructions. Repo operation and learner outcomes remain untested.
+- 2026-10-25: Created this standalone fictional example. The walkthrough describes expected outputs; repository operation and learner outcomes have not been tested.
