@@ -1,4 +1,6 @@
-# rnd-repo-archive
+# ResearchRelay
+
+Skill identifier: `research-relay`.
 
 Explore GitHub repositories, learn how an AI workflow fits your needs, and preserve your reasoning in one restartable Markdown archive.
 
@@ -22,7 +24,7 @@ The communication style emphasizes clear next actions, manageable steps, and a p
 4. Say **Archive this idea** to save the discussion as a complete Markdown document.
 
 ```text
-Use rnd-repo-archive.
+Use research-relay.
 My background: I work with a small design team.
 My goal: find project decisions in our existing notes.
 My constraints: keep project notes local and start with a small experiment.
@@ -49,14 +51,14 @@ Search is focused on the next decision. Live discovery requires browsing or repo
 
 ## Load the skill
 
-Copy the folder named `rnd-repo-archive` into one supported location. `SKILL.md` belongs directly inside that folder.
+Copy the folder named `research-relay` into one supported location. `SKILL.md` belongs directly inside that folder.
 
 | Host | Project-local location | Personal location |
 | --- | --- | --- |
-| Codex | `.agents/skills/rnd-repo-archive/` | `~/.agents/skills/rnd-repo-archive/` |
-| Claude Code | `.claude/skills/rnd-repo-archive/` | `~/.claude/skills/rnd-repo-archive/` |
+| Codex | `.agents/skills/research-relay/` | `~/.agents/skills/research-relay/` |
+| Claude Code | `.claude/skills/research-relay/` | `~/.claude/skills/research-relay/` |
 
-In Claude Code, invoke `/rnd-repo-archive`. In Codex, ask to use `rnd-repo-archive` or select it through the client's skill interface. For host-specific details, see the [OpenAI skill documentation](https://learn.chatgpt.com/docs/build-skills) and [Claude Code skill documentation](https://code.claude.com/docs/en/skills).
+In Claude Code, invoke `/research-relay`. In Codex, ask to use `research-relay` or select it through the client's skill interface. For host-specific details, see the [OpenAI skill documentation](https://learn.chatgpt.com/docs/build-skills) and [Claude Code skill documentation](https://code.claude.com/docs/en/skills).
 
 For another assistant, supply `SKILL.md` through its supported instruction workflow. Uploading it to an ordinary chat does not necessarily install a persistent skill or grant tools. Keep the MIT license and attribution when redistributing the file or package.
 
@@ -89,7 +91,7 @@ Archive filename pattern: `YYYY-MM-DD_short-topic_v01.md`. The suffix tracks rev
 Attach your saved archive and use:
 
 ```text
-Use rnd-repo-archive. Read the attached archive, restore its context and
+Use research-relay. Read the attached archive, restore its context and
 current decision, and help me take the first restart action.
 Check sources that may have changed and identify outdated assumptions.
 ```
@@ -107,7 +109,7 @@ Repository analysis and discovery do not themselves install or run software. Arc
 ## Package contents
 
 ```text
-rnd-repo-archive/
+research-relay/
   SKILL.md
   README.md
   LICENSE

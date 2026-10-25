@@ -1,10 +1,10 @@
 ---
-name: rnd-repo-archive
+name: research-relay
 description: Explore GitHub repositories against a user's background, brainstorm relevant R&D ideas, and archive agreed ideas as one complete Markdown file. Use for repo-based R&D discussions, finding complementary repositories from supplied GitHub links, idea archiving, and resuming previous research. Includes action-first communication and beginner walkthroughs that retain technical depth.
 license: MIT
 ---
 
-# R&D Repository Archive
+# ResearchRelay
 
 ## Purpose and language
 
@@ -283,7 +283,7 @@ This notice belongs to skill distribution, not generated archives. Keep it when 
 ```text
 MIT License
 
-Copyright (c) 2026 rnd-repo-archive contributors
+Copyright (c) 2026 ResearchRelay contributors
 Copyright (c) 2026 Ayoub Ghriss
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
